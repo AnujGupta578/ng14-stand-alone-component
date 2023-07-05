@@ -1,0 +1,1 @@
+# ng14-stand-alone-component
